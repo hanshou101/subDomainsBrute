@@ -1,0 +1,2 @@
+pm.netease.com                	59.111.0.58
+ycc.netease.com               	10.201.49.44
